@@ -5,7 +5,7 @@
 
   GLM是英文通用（多任务）大规模预训练模型，参数规模达到100亿
 
-  链接：
+  链接：https://github.com/BAAI-WuDao/WenHui-GLM
 
 * CogView
 
