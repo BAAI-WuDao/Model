@@ -19,7 +19,7 @@
 
   国内最大的蛋白质预训练模型，参数总量达到30亿。
 
-* **[Lawformer]()**
+* **[Lawformer](https://github.com/thunlp/LegalPLMs)**
 
   世界首创法律领域长文本中文预训练模型，参数规模达到1亿。
   
