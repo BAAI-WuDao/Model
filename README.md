@@ -10,7 +10,7 @@
   CogView是世界最大的中文多模态生成模型，参数量达到40亿。
 
   
-* **[CPM2]()**
+* **[CPM2](https://github.com/TsinghuaAI/CPM)**
 
   基于Encoder-Decoder架构的中英双语大规模预训练模型，参数规模达到1000亿。
   
