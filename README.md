@@ -13,7 +13,10 @@
 * **[CPM2](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenYuan&id=1394901846484627456)**
 
   基于Encoder-Decoder架构的中英双语大规模预训练模型，参数规模达到1000亿。
-  
+
+* **[BriVl](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenYuan&id=1394901846484627456)**
+
+  BriVL模型是首个中文通用图文多模态大规模预训练模型，在图文检索任务上有着优异的效果。
   
 * **[ProtTrans](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenSu&id=1394901487120855040)**
 
