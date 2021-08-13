@@ -19,7 +19,7 @@
 
 * **[BriVl](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenYuan&id=1394901846484627456)**
 
-  BriVL (Bridging Vision and Language Model) 是首个中文通用图文多模态大规模预训练模型。BriVL模型在图文检索任务上有着优异的效果，超过了同期其他常见的多模态预训练模型（例如UNITER、CLIP）。
+  BriVL (Bridging Vision and Language Model) 是首个中文通用图文多模态大规模预训练模型，参数量达10亿。BriVL模型在图文检索任务上有着优异的效果，超过了同期其他常见的多模态预训练模型（例如UNITER、CLIP）。
   
 * **[ProtTrans](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenSu&id=1394901487120855040)**
 
