@@ -3,16 +3,16 @@
 
 * **[GLM](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenHui&id=1399364355975327744)**
 
-  GLM是英文通用（多任务）大规模预训练模型，参数规模达到100亿。
+  以英文为核心的预训练语言模型系列，基于新的预训练范式实现单一模型在语言理解和生成任务方面取得了最佳结果，并且超过了在相同数据量进行训练的常见预训练模型（例如BERT，RoBERTa和T5），目前已开源1.1亿、3.35亿、4.10亿、5.15亿、100亿参数规模的模型。。
 
 * **[CogView](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenHui&id=1399364355975327744)**
 
-  CogView是世界最大的中文多模态生成模型，参数量达到40亿。
+  参数量为40亿，模型可实现文本生成图像，经过微调后可实现国画、油画、水彩画、轮廓画等图像生成。目前在公认MS COCO文生图任务上取得了超过OpenAI DALL·E的成绩，获得世界第一。
 
   
-* **[CPM2](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenYuan&id=1394901846484627456)**
+* **[CPM](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenYuan&id=1394901846484627456)**
 
-  基于Encoder-Decoder架构的中英双语大规模预训练模型，参数规模达到1000亿。
+  兼顾理解与生成能力的预训练语言模型系列，涵盖中文、中英双语多类模型，目前已开源26亿、110亿和1980亿参数规模的模型。
 
 * **[BriVl](https://resource.wudaoai.cn/home?ind=2&name=WuDao%20WenYuan&id=1394901846484627456)**
 
