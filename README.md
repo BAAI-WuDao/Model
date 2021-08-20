@@ -13,6 +13,10 @@
 
   2020年11月，CPM系列正式发布，并推出当时参数最大的26亿中文预训练语言模型CPM-1（Chinese Pretrained Models），可支持简单对话、文章生成和语言理解等下游任务。2021年6月，CPM-2（Cost-efficient Pre-trained language Models）在北京智源大会上发布，推出了110亿的中英双语语言模型和对应的1980亿MoE版模型。
   
+* **[EVA](https://github.com/BAAI-WuDao/EVA)**
+
+  EVA是一个开放领域的中文对话预训练模型，是目前最大的汉语对话模型，参数量达到28亿，并且在包括不同领域14亿汉语的悟道对话数据集（WDC）上进行预训练。
+  
 * **[CogView](https://wudaoai.cn/model/detail/CogView)**
 
   世界最大的中文多模态生成模型，参数量为40亿。模型支持文生成图为基础的多领域下游任务，在应用维度上具备通用性，经过微调后可实现国画、油画、水彩画、轮廓画等图像生成。
